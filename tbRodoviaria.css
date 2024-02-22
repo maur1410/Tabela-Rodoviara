@@ -1,0 +1,26 @@
+table{
+    background-color: cadetblue; /* coloca a cor de fundo */
+    text-align: center; /* alinha o texto no centro */
+   
+}
+tr{
+    color: aliceblue; /* quando estiver color sozinho 
+    sempre se refere a "letras" fontes */
+
+}
+.letra{    /* tudo quer for classe preciso colocar o " . " para chamar */
+    color:black;
+}
+.rj{
+    color: aliceblue; 
+    background-color: red; /* muda a cor de fundo da tela*/ 
+}
+.sp{
+    background-color: red;
+}
+.tarifarj{
+    background-color:green; /* muda a tarifa somente no campo indicado Rio de Janeiro*/ 
+}
+.frequenciaCurituba{
+    background-color: green; /* muda somente a cor da frequencia */
+}
